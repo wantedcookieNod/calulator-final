@@ -1,0 +1,19 @@
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\bin\Debug\calculator v 2.0.exe.config
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\bin\Debug\calculator v 2.0.exe
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\bin\Debug\calculator v 2.0.pdb
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.csprojResolveAssemblyReference.cache
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\obj\Debug\calculator_v_2._0.Form1.resources
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\obj\Debug\calculator_v_2._0.Properties.Resources.resources
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.csproj.GenerateResource.Cache
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.exe
+c:\users\sima\documents\visual studio 2015\Projects\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.pdb
+F:\My codes\calculator v 2.0\calculator v 2.0\bin\Debug\calculator v 2.0.exe.config
+F:\My codes\calculator v 2.0\calculator v 2.0\bin\Debug\calculator v 2.0.exe
+F:\My codes\calculator v 2.0\calculator v 2.0\bin\Debug\calculator v 2.0.pdb
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.csprojAssemblyReference.cache
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator_v_2._0.Form1.resources
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator_v_2._0.Properties.Resources.resources
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.csproj.GenerateResource.cache
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.csproj.CoreCompileInputs.cache
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.exe
+F:\My codes\calculator v 2.0\calculator v 2.0\obj\Debug\calculator v 2.0.pdb
